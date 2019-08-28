@@ -1,0 +1,1 @@
+responsive picture in text with codeberry example

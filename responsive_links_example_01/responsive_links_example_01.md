@@ -1,0 +1,1 @@
+display propertie responsive links in box codeberry example

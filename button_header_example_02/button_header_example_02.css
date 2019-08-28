@@ -1,0 +1,51 @@
+/* ==== GENERAL STYLES ==== */
+
+* {
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: black;
+  padding: 1rem;
+}
+
+
+nav a {
+  text-decoration: none;
+  font-family: 'Times New Roman',sanf-serif;
+  text-align: center;
+  display: block;
+  padding: .5rem 1rem;
+  color: gray;
+  border: 1px solid hsla(0,0%,100%,.2);
+  border-radius: 9999px;
+}
+
+nav a:hover {
+  background-color: #fff;
+  transition: background-color .3s ease-in-out;
+}
+
+@media (min-width: 768px) {
+
+  nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+
+  nav a {
+    float: right;
+  }
+}
+
+
+
+p {
+  color: black;
+  margin-bottom: 1.25rem;
+  padding: 5rem;
+}
+
+
