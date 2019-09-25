@@ -1,0 +1,107 @@
+
+VALIDATOR ...
+
+https://validator.w3.org/#validate_by_input
+
+_______________________________________________________________________
+
+CSS LINK ...
+
+<head>
+  <link rel="stylesheet" href="title.css">
+</head>
+
+_______________________________________________________________________
+
+NAME ...
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="description" content="ez most cv yfgn a teszt">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+    ez most a teszt
+  <p> feh </p>
+</body>
+</html>
+
+_____________________________________________________________________
+
+LINK ... Wikipedia
+
+<p>Source: <a href="https://simple.wikipedia.org/wiki/Mantis_shrimp">Wikipedia</a></p>
+
+______________________________________________________________________________
+
+LINK ... Picture
+
+<img src="picturelink" alt="alternativ text">
+
+text under picture ...
+
+<figure>
+  <img src="https://.......cover.jpg" rel="picturename">
+  <figcaption>Learning to code.</figcaption>
+</figure>
+
+
+
+________________________________________________________________________
+
+STRONG ... EM ... Special content
+
+<p>Part of this sentence is <strong>really important</strong>.</p>
+
+<p>There <em>is</em> some method in this HTML madness after all.</p>
+
+_______________________________________________________________________
+
+TABLE ...
+
+<table>
+  <caption>title</caption>  
+  <tr>
+    <th>A</th>
+    <th>B</th>
+  </tr>
+  <tr>
+    <td>A1</td>
+    <td>B1</td>
+  </tr>
+  <tr>
+    <td>A2</td>
+    <td>B2</td>
+  </tr>
+</table>
+
+___________________________________________________________________
+
+LISTS ...
+
+<ul>
+  <li>A</li>
+  <li>B</li>
+  <li>C</li>
+</ul>
+
+
+<ol>
+  <li>D</li>
+  <li>E</li>
+  <li>F</li>
+</ol>
+
+________________________________________________________________________
+
+FONTS ...
+
+<head>
+	[...]
+	<link href="https://fonts.googleapis.com/css?family=Merriweather:300|Open+Sans" rel="stylesheet">
+</head>
+
+______________________________________________________________________________
