@@ -1,0 +1,122 @@
+#canvas {
+  width: 300px;
+  height: 300px;
+  background-color: ivory;
+  margin: 0 auto;
+  box-shadow: 15px 12px 10px -4px gray;
+}
+
+#first-row {
+  height: 75%;
+  width: 100%;
+  <--c--> background-color: blanchedalmond;
+}
+
+#big-rectangle {
+  height: 100%;
+  width: 75%;
+}
+
+.red {
+  background-color: red;
+  }
+
+.brown {
+  background-color: brown;
+}
+
+.right {
+  float: right;
+}
+
+#first-divider {
+  height: 100%;
+  width: 3%;
+}
+
+.black {
+  background-color: black;
+}
+
+.green  {
+  background-color: beige;
+  }
+
+#first-column {
+  height: 100%;
+  width: 22%;
+}
+
+#second-divider {
+  height: 3%;
+  width: 100%;
+}
+
+#first-medium-rectangle {
+  height: 48.5%;
+  width: 100%;
+  
+}
+
+#second-medium-rectangle {
+  height: 48.5%;
+  width: 100%;
+}
+
+#second-row {
+  height: 3%;
+  width: 100%;
+}
+
+#third-row {
+  height: 22%;
+  width: 100%;
+}
+
+#last-column {
+  height: 100%;
+  width: 25%;
+}
+
+#first-little-rectangle {
+  height: 43%;
+  width: 100%;
+}
+
+#third-divider {
+  height: 14%;
+  width: 100%;
+}
+
+#second-little-rectangle {
+  height: 43%;
+  width: 100%;
+}
+
+#fourth-divider {
+  height: 100%;
+  width: 3%;
+}
+
+#rectangle3 {
+  height: 100%;
+  width: 47%;
+}
+
+#rectangle4 {
+  height: 100%;
+  width: 22%;
+}
+
+#fifth-divider {
+  height: 100%;
+  width: 3%;
+}
+
+.blue {
+  background-color: skyblue;
+}
+
+.yellow {
+  background-color: gold;
+}
